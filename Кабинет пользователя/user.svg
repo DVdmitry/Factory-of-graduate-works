@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg enable-background="new 0 0 18121.891 17875.275" height="60" viewBox="0 0 18121.891 17875.275" width="40" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient4662" x1="8739.1768" x2="8667.5684" y1="8762.1143" y2="8706.5811">
+			<stop offset="0" stop-color="#fff"></stop>
+			<stop offset="1"></stop>
+		</linearGradient><radialGradient cx="8710.2324" cy="8685.3359" gradientUnits="userSpaceOnUse" id="radialGradient4660" r="36.3956">
+			<stop offset="0" stop-color="#fff"></stop>
+			<stop offset="1"></stop>
+		</radialGradient></defs>
+
+
+
+
+
+<g transform="matrix(28.593843,0,0,28.593843,-255701.25,-242438.87)">
+		
+		
+		
+		
+		
+		<g transform="matrix(7.583483,0,0,8.083241,-56740.012,-61544.791)"><path d="m8720.1679,8679.2344a17.457,17.457 0 1,0 -34.914,0 17.457,17.457 0 1,0 34.914,0" fill="url(#radialGradient4660)"></path><path d="m8702.994,8697.618c-15.704,0-28.712,23.157-31.006,53.382h62.012c-2.294-30.225-15.302-53.382-31.006-53.382z" fill="url(#linearGradient4662)"></path><path d="m8700.199,8707.986-2.795-4.841 5.555-4.877l5.625,4.877-2.795,4.841h-5.59z" fill="#c6c7c8"></path><path d="m8695.404,8737.145 7.645,10.251v-38.745h-2.727l-4.918,28.494zm10.38-28.495h-2.728v38.745l7.646-10.251-4.918-28.494z" fill="#c6c7c8"></path></g>
+	</g>
+
+</svg>
